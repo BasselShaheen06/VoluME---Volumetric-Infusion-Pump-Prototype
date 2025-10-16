@@ -95,7 +95,7 @@ Communication between both layers occurs through **Serial (USB)** using `pyseria
 
 ---
 
-## 🧠 Why This Project Matters
+## Why This Project Matters
 
 This project merges **biomedical device logic** with **embedded systems design**, representing a miniature model of how **real infusion systems** handle safety-critical operations.
 
@@ -123,7 +123,7 @@ We envision extending this system with:
 
 ---
 
-## ⚡ Getting Started
+## Getting Started
 
 ### Requirements
 
@@ -151,12 +151,3 @@ We envision extending this system with:
 
 ---
 
-## 🧑‍💻 Team Members
-
-- [Mohamed Badawy](https://github.com/MohamedBadawy19)  
-- [Kareem Taha](https://github.com/Kareem-Taha-05)  
-- [Kareem Hassan](https://github.com/karimhassan-808)  
-- [Omar Gamal](https://github.com/OmarGamalH)  
-- [Ahmed Salem](https://github.com/Ahmedo0oSalem)  
-- [Bassel Shaheen](https://github.com/BasselShaheen06)
----
