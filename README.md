@@ -155,7 +155,7 @@ We envision extending this system with:
 
 [Mohamed Badawy](https://github.com/MohamedBadawy19)  
 [Kareem Taha](https://github.com/Kareem-Taha-05)  
-[Kareem Hassan](https://github.com/karimhassan-808)  
+[Karim Hassan](https://github.com/karimhassan-808)  
 [Omar Gamal](https://github.com/OmarGamalH)  
 [Ahmed Salem](https://github.com/Ahmedo0oSalem)  
 [Bassel Shaheen](https://github.com/BasselShaheen06)
